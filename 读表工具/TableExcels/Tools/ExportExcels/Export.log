@@ -1,0 +1,152 @@
+INFO:root:<b>------开始导出数据------</b>
+INFO:root:写入数据->D:/Dungeon/Assets/StreamingAssets/TableExcels/Excel_TableData\EquipmentTable.xlsx
+INFO:root:生成脚本->D:/Dungeon/Assets/StreamingAssets/TableExcels/Excel_TableData\EquipmentTable.xlsx
+INFO:root:<b>------导出数据完成 x1------</b>
+INFO:root:<b>------生成脚本完成 x1------</b>
+INFO:root:
+INFO:root:《=========---------> 03/21 21:06:08' <---------=========》
+INFO:root:工具工作路径D:\Dungeon\Assets\StreamingAssets\TableExcels\Tools\ExportExcels\Main.exe
+INFO:root:读取配置文件D:\Dungeon\Assets\StreamingAssets\TableExcels\Tools\ExportExcels/projectConfig.json
+INFO:root:<b>------开始导出数据------</b>
+INFO:root:写入数据->D:/Dungeon/Assets/StreamingAssets/TableExcels/Excel_TableData\Equipment.xlsx
+INFO:root:生成脚本->D:/Dungeon/Assets/StreamingAssets/TableExcels/Excel_TableData\Equipment.xlsx
+INFO:root:写入数据->D:/Dungeon/Assets/StreamingAssets/TableExcels/Excel_TableData\EquipmentTable.xlsx
+INFO:root:生成脚本->D:/Dungeon/Assets/StreamingAssets/TableExcels/Excel_TableData\EquipmentTable.xlsx
+INFO:root:<b>------导出数据完成 x2------</b>
+INFO:root:<b>------生成脚本完成 x2------</b>
+INFO:root:
+INFO:root:《=========---------> 03/21 21:06:46' <---------=========》
+INFO:root:工具工作路径D:\Dungeon\Assets\StreamingAssets\TableExcels\Tools\ExportExcels\Main.exe
+INFO:root:读取配置文件D:\Dungeon\Assets\StreamingAssets\TableExcels\Tools\ExportExcels/projectConfig.json
+INFO:root:<b>------开始导出数据------</b>
+INFO:root:写入数据->D:/Dungeon/Assets/StreamingAssets/TableExcels/Excel_TableData\EquipmentTable.xlsx
+INFO:root:生成脚本->D:/Dungeon/Assets/StreamingAssets/TableExcels/Excel_TableData\EquipmentTable.xlsx
+INFO:root:<b>------导出数据完成 x1------</b>
+INFO:root:<b>------生成脚本完成 x1------</b>
+INFO:root:
+INFO:root:《=========---------> 03/21 21:13:47' <---------=========》
+INFO:root:工具工作路径D:\Dungeon\Assets\StreamingAssets\TableExcels\Tools\ExportExcels\Main.exe
+INFO:root:读取配置文件D:\Dungeon\Assets\StreamingAssets\TableExcels\Tools\ExportExcels/projectConfig.json
+INFO:root:
+INFO:root:《=========---------> 03/24 16:09:33' <---------=========》
+INFO:root:工具工作路径D:\Dungeon\Assets\StreamingAssets\TableExcels\Tools\ExportExcels\Main.exe
+INFO:root:读取配置文件D:\Dungeon\Assets\StreamingAssets\TableExcels\Tools\ExportExcels/projectConfig.json
+INFO:root:<b>------开始导出数据------</b>
+INFO:root:写入数据->D:/Dungeon/Assets/StreamingAssets/TableExcels/Excel_TableData\EquipmentTable.xlsx
+INFO:root:生成脚本->D:/Dungeon/Assets/StreamingAssets/TableExcels/Excel_TableData\EquipmentTable.xlsx
+INFO:root:写入数据->D:/Dungeon/Assets/StreamingAssets/TableExcels/Excel_TableData\PlayerTable.xlsx
+INFO:root:生成脚本->D:/Dungeon/Assets/StreamingAssets/TableExcels/Excel_TableData\PlayerTable.xlsx
+INFO:root:<b>------导出数据完成 x2------</b>
+INFO:root:<b>------生成脚本完成 x2------</b>
+INFO:root:
+INFO:root:《=========---------> 04/07 22:36:18' <---------=========》
+INFO:root:工具工作路径D:\Dungeon\Assets\StreamingAssets\TableExcels\Tools\ExportExcels\Main.exe
+INFO:root:读取配置文件D:\Dungeon\Assets\StreamingAssets\TableExcels\Tools\ExportExcels/projectConfig.json
+INFO:root:
+INFO:root:《=========---------> 04/28 16:52:08' <---------=========》
+INFO:root:工具工作路径D:\Dungeon\Assets\StreamingAssets\TableExcels\Tools\ExportExcels\Main.exe
+INFO:root:读取配置文件D:\Dungeon\Assets\StreamingAssets\TableExcels\Tools\ExportExcels/projectConfig.json
+INFO:root:
+INFO:root:《=========---------> 04/30 14:10:08' <---------=========》
+INFO:root:工具工作路径D:\Dungeon\Assets\StreamingAssets\TableExcels\Tools\ExportExcels\Main.exe
+INFO:root:读取配置文件D:\Dungeon\Assets\StreamingAssets\TableExcels\Tools\ExportExcels/projectConfig.json
+INFO:root:<b>------开始导出数据------</b>
+INFO:root:写入数据->D:/Dungeon/Assets/StreamingAssets/TableExcels/Excel_TableData\EquipmentTable.xlsx
+INFO:root:生成脚本->D:/Dungeon/Assets/StreamingAssets/TableExcels/Excel_TableData\EquipmentTable.xlsx
+INFO:root:写入数据->D:/Dungeon/Assets/StreamingAssets/TableExcels/Excel_TableData\PlayerTable.xlsx
+INFO:root:生成脚本->D:/Dungeon/Assets/StreamingAssets/TableExcels/Excel_TableData\PlayerTable.xlsx
+INFO:root:写入数据->D:/Dungeon/Assets/StreamingAssets/TableExcels/Excel_TableData\SkillTable.xlsx
+INFO:root:生成脚本->D:/Dungeon/Assets/StreamingAssets/TableExcels/Excel_TableData\SkillTable.xlsx
+INFO:root:<b>------导出数据完成 x3------</b>
+INFO:root:<b>------生成脚本完成 x3------</b>
+INFO:root:
+INFO:root:《=========---------> 04/30 14:51:46' <---------=========》
+INFO:root:工具工作路径D:\Dungeon\Assets\StreamingAssets\TableExcels\Tools\ExportExcels\Main.exe
+INFO:root:读取配置文件D:\Dungeon\Assets\StreamingAssets\TableExcels\Tools\ExportExcels/projectConfig.json
+INFO:root:
+INFO:root:《=========---------> 05/01 16:04:05' <---------=========》
+INFO:root:工具工作路径D:\Dungeon\Assets\StreamingAssets\TableExcels\Tools\ExportExcels\Main.exe
+INFO:root:读取配置文件D:\Dungeon\Assets\StreamingAssets\TableExcels\Tools\ExportExcels/projectConfig.json
+INFO:root:<b>------开始导出数据------</b>
+INFO:root:写入数据->D:/Dungeon/Assets/StreamingAssets/TableExcels/Excel_TableData\EquipmentTable.xlsx
+INFO:root:生成脚本->D:/Dungeon/Assets/StreamingAssets/TableExcels/Excel_TableData\EquipmentTable.xlsx
+INFO:root:写入数据->D:/Dungeon/Assets/StreamingAssets/TableExcels/Excel_TableData\PlayerTable.xlsx
+INFO:root:生成脚本->D:/Dungeon/Assets/StreamingAssets/TableExcels/Excel_TableData\PlayerTable.xlsx
+INFO:root:写入数据->D:/Dungeon/Assets/StreamingAssets/TableExcels/Excel_TableData\SkillTable.xlsx
+INFO:root:生成脚本->D:/Dungeon/Assets/StreamingAssets/TableExcels/Excel_TableData\SkillTable.xlsx
+INFO:root:<b>------导出数据完成 x3------</b>
+INFO:root:<b>------生成脚本完成 x3------</b>
+INFO:root:
+INFO:root:《=========---------> 05/07 01:03:52' <---------=========》
+INFO:root:工具工作路径D:\Dungeon\Assets\StreamingAssets\TableExcels\Tools\ExportExcels\Main.exe
+INFO:root:读取配置文件D:\Dungeon\Assets\StreamingAssets\TableExcels\Tools\ExportExcels/projectConfig.json
+INFO:root:
+INFO:root:《=========---------> 05/19 20:33:34' <---------=========》
+INFO:root:工具工作路径D:\Dungeon\Assets\StreamingAssets\TableExcels\Tools\ExportExcels\Main.exe
+INFO:root:读取配置文件D:\Dungeon\Assets\StreamingAssets\TableExcels\Tools\ExportExcels/projectConfig.json
+INFO:root:<b>------开始导出数据------</b>
+INFO:root:写入数据->D:/Dungeon/Assets/StreamingAssets/TableExcels/Excel_TableData\EquipmentTable.xlsx
+INFO:root:生成脚本->D:/Dungeon/Assets/StreamingAssets/TableExcels/Excel_TableData\EquipmentTable.xlsx
+INFO:root:写入数据->D:/Dungeon/Assets/StreamingAssets/TableExcels/Excel_TableData\PlayerTable.xlsx
+INFO:root:生成脚本->D:/Dungeon/Assets/StreamingAssets/TableExcels/Excel_TableData\PlayerTable.xlsx
+INFO:root:写入数据->D:/Dungeon/Assets/StreamingAssets/TableExcels/Excel_TableData\SkillTable.xlsx
+INFO:root:生成脚本->D:/Dungeon/Assets/StreamingAssets/TableExcels/Excel_TableData\SkillTable.xlsx
+INFO:root:<b>------导出数据完成 x3------</b>
+INFO:root:<b>------生成脚本完成 x3------</b>
+INFO:root:
+INFO:root:《=========---------> 05/19 21:03:19' <---------=========》
+INFO:root:工具工作路径D:\Dungeon\Assets\StreamingAssets\TableExcels\Tools\ExportExcels\Main.exe
+INFO:root:读取配置文件D:\Dungeon\Assets\StreamingAssets\TableExcels\Tools\ExportExcels/projectConfig.json
+INFO:root:打开Excel路径：D:/Dungeon/Assets/StreamingAssets/TableExcels/Excel_TableData
+INFO:root:<b>------开始导出数据------</b>
+INFO:root:写入数据->D:/Dungeon/Assets/StreamingAssets/TableExcels/Excel_TableData\EquipmentTable.xlsx
+INFO:root:生成脚本->D:/Dungeon/Assets/StreamingAssets/TableExcels/Excel_TableData\EquipmentTable.xlsx
+INFO:root:写入数据->D:/Dungeon/Assets/StreamingAssets/TableExcels/Excel_TableData\PlayerTable.xlsx
+INFO:root:生成脚本->D:/Dungeon/Assets/StreamingAssets/TableExcels/Excel_TableData\PlayerTable.xlsx
+INFO:root:写入数据->D:/Dungeon/Assets/StreamingAssets/TableExcels/Excel_TableData\SkillTable.xlsx
+INFO:root:生成脚本->D:/Dungeon/Assets/StreamingAssets/TableExcels/Excel_TableData\SkillTable.xlsx
+INFO:root:<b>------导出数据完成 x3------</b>
+INFO:root:<b>------生成脚本完成 x3------</b>
+INFO:root:
+INFO:root:《=========---------> 07/12 13:12:07' <---------=========》
+INFO:root:工具工作路径D:\DotsProjrect\Test\Assets\StreamingAssets\TableExcels\Tools\ExportExcels\Main.exe
+INFO:root:读取配置文件D:\DotsProjrect\Test\Assets\StreamingAssets\TableExcels\Tools\ExportExcels/projectConfig.json
+INFO:root:
+INFO:root:《=========---------> 07/12 13:19:00' <---------=========》
+INFO:root:工具工作路径D:\DotsProjrect\Test\Assets\StreamingAssets\TableExcels\Tools\ExportExcels\Main.exe
+INFO:root:读取配置文件D:\DotsProjrect\Test\Assets\StreamingAssets\TableExcels\Tools\ExportExcels/projectConfig.json
+INFO:root:打开Excel路径：D:/DotsProjrect/Test/Assets/StreamingAssets/TableExcels/Excel_TableData
+INFO:root:<b>------开始导出数据------</b>
+INFO:root:写入数据->D:/DotsProjrect/Test/Assets/StreamingAssets/TableExcels/Excel_TableData\PlayerTable.xlsx
+INFO:root:生成脚本->D:/DotsProjrect/Test/Assets/StreamingAssets/TableExcels/Excel_TableData\PlayerTable.xlsx
+INFO:root:<b>------导出数据完成 x1------</b>
+INFO:root:<b>------生成脚本完成 x1------</b>
+INFO:root:
+INFO:root:《=========---------> 07/12 13:26:55' <---------=========》
+INFO:root:工具工作路径D:\DotsProjrect\Test\Assets\StreamingAssets\TableExcels\Tools\ExportExcels\Main.exe
+INFO:root:读取配置文件D:\DotsProjrect\Test\Assets\StreamingAssets\TableExcels\Tools\ExportExcels/projectConfig.json
+INFO:root:<b>------开始导出数据------</b>
+INFO:root:写入数据->D:/DotsProjrect/Test/Assets/StreamingAssets/TableExcels/Excel_TableData\PlayerTable.xlsx
+INFO:root:生成脚本->D:/DotsProjrect/Test/Assets/StreamingAssets/TableExcels/Excel_TableData\PlayerTable.xlsx
+INFO:root:<b>------导出数据完成 x1------</b>
+INFO:root:<b>------生成脚本完成 x1------</b>
+INFO:root:
+INFO:root:《=========---------> 07/12 13:28:14' <---------=========》
+INFO:root:工具工作路径D:\DotsProjrect\Test\Assets\StreamingAssets\TableExcels\Tools\ExportExcels\Main.exe
+INFO:root:读取配置文件D:\DotsProjrect\Test\Assets\StreamingAssets\TableExcels\Tools\ExportExcels/projectConfig.json
+INFO:root:打开数据路径：D:/DotsProjrect/Test/Assets/StreamingAssets/TableExcels/Excel_TableData
+INFO:root:<b>------开始导出数据------</b>
+INFO:root:写入数据->D:/DotsProjrect/Test/Assets/StreamingAssets/TableExcels/Excel_TableData\PlayerTable.xlsx
+INFO:root:生成脚本->D:/DotsProjrect/Test/Assets/StreamingAssets/TableExcels/Excel_TableData\PlayerTable.xlsx
+INFO:root:<b>------导出数据完成 x1------</b>
+INFO:root:<b>------生成脚本完成 x1------</b>
+INFO:root:打开数据路径：D:/DotsProjrect/Test/Assets/StreamingAssets/TableExcels/TableConfigs
+INFO:root:
+INFO:root:《=========---------> 07/12 13:41:23' <---------=========》
+INFO:root:工具工作路径D:\DotsProjrect\Test\Assets\StreamingAssets\TableExcels\Tools\ExportExcels\Main.exe
+INFO:root:读取配置文件D:\DotsProjrect\Test\Assets\StreamingAssets\TableExcels\Tools\ExportExcels/projectConfig.json
+INFO:root:<b>------开始导出数据------</b>
+INFO:root:写入数据->D:/DotsProjrect/Test/Assets/StreamingAssets/TableExcels/Excel_TableData\PlayerTable.xlsx
+INFO:root:生成脚本->D:/DotsProjrect/Test/Assets/StreamingAssets/TableExcels/Excel_TableData\PlayerTable.xlsx
+INFO:root:<b>------导出数据完成 x1------</b>
+INFO:root:<b>------生成脚本完成 x1------</b>
