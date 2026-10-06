@@ -1,0 +1,9 @@
+{
+  "is_client": true,
+  "path_excel": "C:/Users/Z1883/OneDrive/Desktop/工具/新读表工具/TableExcels/Excel_TableData",
+  "path_data": "数据保存路径",
+  "path_script": "生成脚本路径",
+  "is_cretescript": true,
+  "async_style": "task",
+  "skip_error_tables": true
+}

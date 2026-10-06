@@ -150,3 +150,7 @@ INFO:root:写入数据->D:/DotsProjrect/Test/Assets/StreamingAssets/TableExcels/Exce
 INFO:root:生成脚本->D:/DotsProjrect/Test/Assets/StreamingAssets/TableExcels/Excel_TableData\PlayerTable.xlsx
 INFO:root:<b>------导出数据完成 x1------</b>
 INFO:root:<b>------生成脚本完成 x1------</b>
+INFO:root:
+INFO:root:《=========---------> 10/06 14:48:55' <---------=========》
+INFO:root:工具工作路径C:\Users\Z1883\OneDrive\Desktop\工具\读表工具\TableExcels\Tools\ExportExcels\Main.exe
+INFO:root:读取配置文件C:\Users\Z1883\OneDrive\Desktop\工具\读表工具\TableExcels\Tools\ExportExcels/projectConfig.json
